@@ -23,32 +23,32 @@ Features
 1. Clone the repository.
 2. Navigate to the backend directory:
    bash
-   cd ecom-proj
+          cd ecom-proj
    
 3. Build the project with Maven:
    bash
-   ./mvnw clean install
+        ./mvnw clean install
    
 4. Run the application:
    bash
-   ./mvnw spring-boot:run
+        ./mvnw spring-boot:run
    
 
  Frontend
 1. Navigate to the frontend directory:
    bash
-   cd ecom-frontend-5-main
+        cd ecom-frontend-5-main
    
 2. Install dependencies:
    bash
-   npm install
+        npm install
    
-3. Start the development server:
+4. Start the development server:
    bash
-   npm run dev
+        npm run dev
 
 
-### overview of the contents of both the backend and frontend parts of your project:
+### overview of the contents of both the backend and frontend parts of the project:
 
 ### Backend :
 - *pom.xml*: Maven configuration file, indicating it's a Maven-based Java project.
